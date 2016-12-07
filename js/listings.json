@@ -1,0 +1,29 @@
+[
+  {
+    "productname": "'12' Subwoofers",
+    "sellername": "Matthew Hays",
+    "price": "$250",
+    "comments": "Good condition. Great sound. I can answer any questions you have about them.",
+    "phone": "555-555-5555",
+    "email": "abc123@gmail.com",
+    "date": "12/1/2016"
+  },
+  {
+    "productname": "Graphics Card",
+    "sellername": "Matthew Hays",
+    "price": "$150",
+    "comments": "Nvidia, still runs well and can play most modern games well on medium/lower settings.",
+    "phone": "555-555-5555",
+    "email": "abc123@gmail.com",
+    "date": "12/4/2016"
+  },
+  {
+    "productname": "Tires",
+    "sellername": "Matthew Hays",
+    "price": "$25",
+    "comments": "Cheap tires for drifting or your fun car.",
+    "phone": "555-555-5555",
+    "email": "abc123@gmail.com",
+    "date": "12/7/2016"
+  }
+]
